@@ -1,3 +1,3 @@
-# Beatboxer
+# BeatBox
 
 Automatic Beatbox Synthesis
